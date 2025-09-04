@@ -50,12 +50,14 @@ Explaining a technical concept
 For each scenario, a naïve prompt and a basic prompt were given, and responses were analyzed.
 
 ## Table of Comparison
-Scenario	Naïve Prompt	Basic Prompt	Naïve Response (Summary)	Basic Response (Summary)	Comparison
-1. Creative Story	“Tell me a story.”	“Write a 200-word fantasy story about a young girl who discovers a magical door in her village, include a twist ending.”	Short, generic story, lacked depth.	Well-structured story with strong characters, plot, and twist.	Basic prompt guided creativity → more immersive output.
-2. Factual Question	“What is AI?”	“Explain Artificial Intelligence in simple terms within 4–5 sentences, with one real-world example.”	Technical definition, too formal.	Clear, beginner-friendly, gave Siri/Google Maps example.	Basic prompt improved clarity and relatability.
-3. Summarization	“Summarize climate change.”	“Summarize climate change causes and effects in less than 100 words for school students.”	Lengthy, used technical terms.	Concise, simple, explained causes & effects for students.	Basic prompt ensured audience-specific accuracy.
-4. Advice/Recommendation	“Give me career advice.”	“Give me career advice for someone studying AI and Data Science who wants a job in software development.”	General motivation (work hard, learn skills).	Targeted roadmap (DSA, projects, internships, interview prep).	Basic prompt delivered actionable, personalized advice.
-5. Explanation of Concept	“Explain machine learning.”	“Explain machine learning in simple words, use an analogy, and limit to 5 sentences.”	Technical explanation with jargon.	Used analogy (“teaching a child”), very simple and short.	Basic prompt increased depth + simplicity.
+| **Scenario**                  | **Naïve Prompt**            | **Basic Prompt**                                                                                                         | **Naïve Response (Summary)**                  | **Basic Response (Summary)**                                   | **Comparison**                                          |
+| ----------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| **1. Creative Story**         | “Tell me a story.”          | “Write a 200-word fantasy story about a young girl who discovers a magical door in her village, include a twist ending.” | Short, generic story, lacked depth.           | Well-structured story with strong characters, plot, and twist. | Basic prompt guided creativity → more immersive output. |
+| **2. Factual Question**       | “What is AI?”               | “Explain Artificial Intelligence in simple terms within 4–5 sentences, with one real-world example.”                     | Technical definition, too formal.             | Clear, beginner-friendly, gave Siri/Google Maps example.       | Basic prompt improved clarity and relatability.         |
+| **3. Summarization**          | “Summarize climate change.” | “Summarize climate change causes and effects in less than 100 words for school students.”                                | Lengthy, used technical terms.                | Concise, simple, explained causes & effects for students.      | Basic prompt ensured audience-specific accuracy.        |
+| **4. Advice/Recommendation**  | “Give me career advice.”    | “Give me career advice for someone studying AI and Data Science who wants a job in software development.”                | General motivation (work hard, learn skills). | Targeted roadmap (DSA, projects, internships, interview prep). | Basic prompt delivered actionable, personalized advice. |
+| **5. Explanation of Concept** | “Explain machine learning.” | “Explain machine learning in simple words, use an analogy, and limit to 5 sentences.”                                    | Technical explanation with jargon.            | Used analogy (“teaching a child”), very simple and short.      | Basic prompt increased depth + simplicity.              |
+
 
 ## Detailed Analysis
 
@@ -125,3 +127,8 @@ Always align the prompt with the end goal (creative vs factual vs explanatory).
 ## Result:
 
 The experiment was successfully executed. ChatGPT produced better, more structured, and context-aware responses when provided with basic structured prompts compared to naïve prompts.
+
+
+
+
+
