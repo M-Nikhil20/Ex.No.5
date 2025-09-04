@@ -1,4 +1,4 @@
-# EXP 5: Comparative Analysis of Different Types of Prompting Patterns
+# EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 ## Register Number: 212222230095
 
 ## Aim:
